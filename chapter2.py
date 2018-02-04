@@ -48,3 +48,15 @@ the length of your stay, and it will tell you the number of day of the week you 
 
 for i in range(10):
     print (i)
+
+# The formula for computing the final amount if one is earning compound interest is
+# A = P (1 + r / n)**nt
+p = 10000
+n = 12
+r = 0.08
+t = int(input("Enter number of years your 10K balance will compound interest for: "))
+final_amount = p * (1 + r / n ) ** (n * t)
+print("Your final amount is: ", final_amount)
+
+
+
