@@ -4,6 +4,6 @@
 - Using PyCharm and ActiveState Python 3.5
 - https://www.python.org
 
-- Testing with PyTest
-- If using PyCharm in windows, go to file/settings/tools/python integrated tools and
+- Testing with PyTest:
+If using PyCharm in windows, go to file/settings/tools/python integrated tools and
 set default test runner to py.test.
