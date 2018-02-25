@@ -6,4 +6,4 @@
 
 - Testing with PyTest
 - If using PyCharm in windows, go to file/settings/tools/python integrated tools and
-set default test runner to py.test
+set default test runner to py.test.
